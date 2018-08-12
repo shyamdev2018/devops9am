@@ -5,6 +5,8 @@ class demo()
     ........
      s. o. p("hello";)
   }
-}
-
-
+} void add()
+  {
+    a=b+c;
+   }
+  
