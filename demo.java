@@ -12,5 +12,10 @@ class demo()
   
   void deposite()
 {
-  amt=amt+bal;
+ amt=amt+bal;
+ }
+
+  void multiplication()
+{
+  amt=amt*bal;
  }
