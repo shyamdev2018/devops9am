@@ -10,3 +10,7 @@ class demo()
     a=b+c;
    }
   
+  void deposite()
+{
+  amt=amt+bal;
+ }
